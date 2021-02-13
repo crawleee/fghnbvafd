@@ -1,5 +1,5 @@
 {
-    "name": "symfony/polyfill-mbstring",
+    "name": "symf​ony/polyfill-mbstring",
     "description": "A short description of what your package does",
     "require": {
         "php": ">=7.4",
